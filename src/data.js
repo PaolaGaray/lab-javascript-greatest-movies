@@ -2967,3 +2967,5 @@ let movies = [
       "rate": 8
     }
   ]
+
+  export default movies
